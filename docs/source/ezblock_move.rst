@@ -1,9 +1,9 @@
 Move
 ============
 
-First we need to know how to make PiCar-X move. Here, we let it perform the five actions of "forward", "backward", "turn left", "turn right", and "stop" in order.
+This first project teaches how to program movement actions for the PiCar-X. In this project, the program will tell the PiCar-X to execute five actions in order: “forward”, “backward”, “turn left”, “turn right”, and “stop”.
 
-Before that, you can learn the basic usage of Ezblock Studio from here.
+To learn the basic usage of Ezblock Studio, please read through the following two sections:
 
 
 * `Quick User Guide for Ezblock 3 <https://docs.sunfounder.com/projects/ezblock3/en/latest/quick_user_guide_for_ezblock3.html>`_
